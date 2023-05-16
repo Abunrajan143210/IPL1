@@ -54,5 +54,5 @@
 10. Generating insights from charts
 11. Export report
 
-## Screenshot
+## Output
 ![Screenshot](https://github.com/ipithani/IPL_Analysis/blob/main/Dashboard%20output.png)
