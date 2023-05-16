@@ -53,3 +53,6 @@
 9. Creating different shapes and formatting
 10. Generating insights from charts
 11. Export report
+
+## Screenshot
+![Screenshot](https://github.com/ipithani/IPL_Analysis/blob/main/Dashboard%20output.png)
